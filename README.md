@@ -1,4 +1,4 @@
-# Automatic-Translational-Corrction
+# Automatic-Translational-Correction
 This project is the part of the paper where translation values are generated through the matching network.
 ## Description
 This project is the part of the paper where translation values are generated through the matching network. Specifically, we use a pre-trained matching model to generate the corresponding translation values for other views, using a reference view as the baseline.
